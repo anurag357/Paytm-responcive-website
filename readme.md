@@ -35,3 +35,6 @@
 
 ## Time taken
 6 to 7 hours.
+
+# Netlify Link
+(Paytm)[https://paytm-website-responsive.netlify.app/]
