@@ -22,7 +22,7 @@
 ### Skills Gained from this
 
 - Navbar using CSS flexbox.
-- Wrote HTML code from scratch for this page.
+- Wrote HTML code from scratch for this project.
 - Used Tailwind css class
 - Class, tag selector for HTML elements.
 - Created cards for displaying contents in better formats.
